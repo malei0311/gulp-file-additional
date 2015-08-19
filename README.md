@@ -65,24 +65,24 @@ type `gulp` in terminal, change twigFile, then output:
 
 ### logfile
 
-*on*
+**on**
 
 * type: `boole`
 * default: `true`
 * values: `true`, `false`
 
-*prefix*
+**prefix**
 
 * type: `string`
 * default: `Using file`
 
-*color*
+**color**
 
 * type: `string`
 * default: `magenta`
 * values: `black`, `blue`, `cyan`, `gray`, `green`, `magenta`, `red`, `white`, `yellow`
 
-*path*
+**path**
 
 * type: `string`
 * default: `cwd`
@@ -90,19 +90,19 @@ type `gulp` in terminal, change twigFile, then output:
 
 ### additional
 
-*on*
+**on**
 
-the same as *logfile*
+the same as **[logfile](#logfile)**
 
-*prefix*
+**prefix**
 
-the same as *logfile*
+the same as **[logfile](#logfile)**
 
-*color*
+**color**
 
-the same as *logfile*
+the same as **[logfile](#logfile)**
 
-*data*
+**data**
 
 * type: `array` or `object`
 * default: `{}`
