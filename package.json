@@ -1,0 +1,26 @@
+{
+  "name": "gulp-file-additional",
+  "version": "0.0.1",
+  "description": "file additional",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:malei0311/gulp-file-additional.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "file",
+    "additional"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {},
+  "author": "malei0311",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^1.1.0",
+    "lodash": "^3.10.1",
+    "map-stream": "0.0.6"
+  }
+}
